@@ -1,0 +1,14 @@
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/bin/Debug/net8.0/Variaveis
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/bin/Debug/net8.0/Variaveis.deps.json
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/bin/Debug/net8.0/Variaveis.runtimeconfig.json
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/bin/Debug/net8.0/Variaveis.dll
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/bin/Debug/net8.0/Variaveis.pdb
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/obj/Debug/net8.0/Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/obj/Debug/net8.0/Variaveis.AssemblyInfoInputs.cache
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/obj/Debug/net8.0/Variaveis.AssemblyInfo.cs
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/obj/Debug/net8.0/Variaveis.csproj.CoreCompileInputs.cache
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/obj/Debug/net8.0/Variaveis.dll
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/obj/Debug/net8.0/refint/Variaveis.dll
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/obj/Debug/net8.0/Variaveis.pdb
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/obj/Debug/net8.0/Variaveis.genruntimeconfig.cache
+/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/obj/Debug/net8.0/ref/Variaveis.dll
