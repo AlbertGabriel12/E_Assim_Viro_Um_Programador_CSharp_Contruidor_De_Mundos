@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/Variaveis.csproj": {}
+    "C:\\Users\\alber\\OneDrive\\Documentos\\Sistemas\\E_Assim_Viro_Um_Programador_CSharp_Contruidor_De_Mundos\\Variaveis\\Variaveis.csproj": {}
   },
   "projects": {
-    "/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/Variaveis.csproj": {
+    "C:\\Users\\alber\\OneDrive\\Documentos\\Sistemas\\E_Assim_Viro_Um_Programador_CSharp_Contruidor_De_Mundos\\Variaveis\\Variaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/Variaveis.csproj",
+        "projectUniqueName": "C:\\Users\\alber\\OneDrive\\Documentos\\Sistemas\\E_Assim_Viro_Um_Programador_CSharp_Contruidor_De_Mundos\\Variaveis\\Variaveis.csproj",
         "projectName": "Variaveis",
-        "projectPath": "/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/Variaveis.csproj",
-        "packagesPath": "/home/albert/.nuget/packages/",
-        "outputPath": "/home/albert/Documentos/CódigosBaguncinha/eAssimViroUmProgramadorCSharpContruidorDeMundos/Variaveis/obj/",
+        "projectPath": "C:\\Users\\alber\\OneDrive\\Documentos\\Sistemas\\E_Assim_Viro_Um_Programador_CSharp_Contruidor_De_Mundos\\Variaveis\\Variaveis.csproj",
+        "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alber\\OneDrive\\Documentos\\Sistemas\\E_Assim_Viro_Um_Programador_CSharp_Contruidor_De_Mundos\\Variaveis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/albert/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
